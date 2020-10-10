@@ -14,8 +14,8 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #C5050C; //#0077CC;
 
-$blue-color-dark: darken(#3E7AD1, 10%);
-$blue-color-light: #4B93DB;
+$blue-color-dark: darken(#C5050C, 10%); //darken(#3E7AD1, 10%);
+$blue-color-light: #FF849A;//#4B93DB;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
