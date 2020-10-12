@@ -19,14 +19,14 @@
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
-    color: #ffffff;
+    color: $grey-color-dark; //#ffffff;
     &,
     &:visited {
-        color: #ffffff;
+        color: $grey-color-dark; // #ffffff;
     }
     &,
     &:hover {
-        color: #ffffff;
+        color: $grey-color-dark; //#ffffff;
 	   text-decoration: none;
     }
 }
