@@ -19,14 +19,14 @@
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
-    color: $grey-color-dark; //#ffffff;
+    color: $blue-color-dark; //#ffffff;
     &,
     &:visited {
-        color: $grey-color-dark; // #ffffff;
+        color: $blue-color-dark; // #ffffff;
     }
     &,
     &:hover {
-        color: $grey-color-dark; //#ffffff;
+        color: $blue-color-dark; //#ffffff;
 	   text-decoration: none;
     }
 }
@@ -38,7 +38,7 @@
 }
 
 .site-nav ul li a {
-	color: #fff;
+	color: $blue-color-dark; // #fff;
 }
 
 .site-nav ul {
