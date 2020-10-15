@@ -19,14 +19,14 @@
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
-    color: $blue-color-dark; //#ffffff;
+    color: $grey-color-dark; //#ffffff;
     &,
     &:visited {
-        color: $blue-color-dark; // #ffffff;
+        color: $grey-color-dark; // #ffffff;
     }
     &,
     &:hover {
-        color: $blue-color-dark; //#ffffff;
+        color: $grey-color-dark; //#ffffff;
 	   text-decoration: none;
     }
 }
@@ -38,7 +38,7 @@
 }
 
 .site-nav ul li a {
-	color: $blue-color-dark; // #fff;
+	color: #fff;
 }
 
 .site-nav ul {
@@ -72,7 +72,7 @@
 
 .site-nav a {
 	display: block;
-    color: #ffffff;
+    color: $blue-color-dark; //#ffffff;
 }
 
 /* Sub Menu */
