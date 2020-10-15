@@ -72,7 +72,7 @@
 
 .site-nav a {
 	display: block;
-    color: $blue-color-dark; //#ffffff;
+    color: #ffffff;
 }
 
 /* Sub Menu */
@@ -158,7 +158,7 @@
     }
 
     .page-link {
-        color: #ffffff;
+        color: $blue-color-dark; //#ffffff;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
