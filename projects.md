@@ -8,7 +8,7 @@ title: Publications
  -->
 <ul>
 	<li>
-		<b>Kaleido: Real-Time Privacy Control for Eye-Tracking Systems</b><br> <p style="text-decoration:underline;">Jingjie Li</p>, Amrita Roy Chowdhury, Kassem Fawaz, Younghyun Kim <br>
+		<b>Kaleido: Real-Time Privacy Control for Eye-Tracking Systems</b><br> Jingjie Li, Amrita Roy Chowdhury, Kassem Fawaz, Younghyun Kim <br>
 		<em>USENIX Security Symposium (USENIX Sec), 2021 (Accepted)</em><br>
 <!-- 		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a> -->
 	</li><br>
