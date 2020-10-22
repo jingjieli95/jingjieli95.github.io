@@ -6,7 +6,7 @@ title: Education
 
 <ul>
 	<li>
-		<h4>University of Wisconsin-Madison</h4>
+		<h4>University of Wisconsin&#8212Madison</h4>
 		<b>Ph.D. </b>in Computer Engineering<br>
 		September 2017 – Present<br>
 	</li><br>
