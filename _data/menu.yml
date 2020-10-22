@@ -1,6 +1,9 @@
 # - title: "About"
 #   href: "/about/"
 
+- title: "Education"
+  href: "/education/"
+
 - title: "Research"
   href: "/research/"
 
