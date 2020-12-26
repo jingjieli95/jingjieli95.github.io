@@ -6,7 +6,16 @@ title: Research
 
 Describe your research interests here.
 
-<h2>Publications</h2>
+<ul class="listing">
+{% for post in site.posts %}
+  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+  <li class="listing-item">
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+<!-- <h2>Publications</h2>
 <ul>
 	<li>
 		<b>"Paper title #1"</b><br>
@@ -48,4 +57,4 @@ Describe your research interests here.
 		<b>Title #2</b>: Brief description of this research implementation.<br>
 		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
-</ul>
+</ul> -->
