@@ -2,7 +2,7 @@
 layout: post
 title: Velody
 date: 2020-12-01 15:01:00
-description: Overview of Velody
+description: is a user authentication that leverages nonlinear vibration challenge-response to thwart the threats from reusing nonresilient biometrics templates.
 categories: [User Authentication]
 ---
 
