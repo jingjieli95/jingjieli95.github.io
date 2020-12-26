@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Project: Velody
+title: Project: Velody
 permalink: /velody/
 ---
 
