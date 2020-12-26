@@ -1,9 +1,7 @@
 ---
 layout: page
 title:  Project: Velody
-date: 2020-10-22 15:10:00
-description: Overview of Velody
-categories: [User Authentication]
+permalink: /velody/
 ---
 
 <p align="center">
