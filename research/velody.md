@@ -4,9 +4,9 @@ title:  Project: Velody
 permalink: /velody/
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img width="460" height="300" src="/images/Velody_logo-768x151.png">
-</p>
+</p> -->
 
 ### Research Overview
 
