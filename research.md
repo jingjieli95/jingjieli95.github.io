@@ -10,8 +10,9 @@ The following posts describe my featured research projects.
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   <li class="listing-item">
-  	<b>{{ post.title }}</b> {{ post.discription }} 
-    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">[show more]</a>  
+  	<b>{{ post.title }}</b> {{ post.description }} 
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">[show more]</a>
+    <hr>  
   </li>
 {% endfor %}
 </ul>
