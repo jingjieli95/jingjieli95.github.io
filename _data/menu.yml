@@ -4,11 +4,12 @@
 # - title: "Education"
 #   href: "/education/"
 
-- title: "Research"
-  href: "/research/"
 
 - title: "Publication"
   href: "/publications/"
+
+- title: "Research"
+  href: "/research/"
 
 - title: "Blog"
   href: "/blog/"
