@@ -4,13 +4,14 @@ permalink: /research/
 title: Research
 ---
 
-Describe your research interests here.
+The following posts describe my featured research projects.
 
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   <li class="listing-item">
     <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    "{{ site.baseurl }}{{ post.url }}"
   </li>
 {% endfor %}
 </ul>
