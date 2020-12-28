@@ -24,9 +24,14 @@ ul.no-bullets {
 }
 
 /* Create two equal columns that floats next to each other */
-.column {
+.columnfigure {
   float: left;
-  padding: 10px;
+  margin-right:1%;
+  padding: 0;
+}
+.columntext {
+  margin-left:1%;
+  padding: 0;
 }
 
 /* Clear floats after the columns */
@@ -38,7 +43,12 @@ ul.no-bullets {
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media only screen and (max-width: 600px) {
-  .column {
+  .columnfigure {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .columntext {
     width: 100%;
   }
 }
@@ -112,10 +122,10 @@ To get a better insight on my life so far, you can have a look at my <a href="/c
 </div>
 <hr>
 <div class="row">
-  <div class="column">
+  <div class="columnfigure">
     <img src="/images/Velody_gif.gif" alt="Velody_gif.gif" caption="A sassy caption here" width=200 style="float:left;margin-right:1%;">
   </div>
-  <div class="column">
+  <div class="columntext">
 	<ul class="no-bullets">
 	<li><span style="color:#023e8a";><b>Velody: Nonlinear Vibration Challenge-Response for Resilient User Authentication</b> </span></li>
 	<li><i>Jingjie Li, Kassem Fawaz, Younghyun Kim (ACM CCS 2019)</i> <a href="https://wisest.ece.wisc.edu/wp-content/uploads/sites/740/2019/09/Velody_CCS2019_Jingjie.pdf"><div class="color-button">pdf</div></a></li>
