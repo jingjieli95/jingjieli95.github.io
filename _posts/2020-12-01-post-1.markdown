@@ -13,4 +13,4 @@ Successful attacks on “static” biometrics such as fingerprints have been rep
 
 We build a prototype to verify its usability and security. Our results show that Velody demonstrates both strong security and long-term consistency with a low equal error rate (EER) of 5.8% against impersonation attack while correctly rejecting all other attacks.
 
-![image](Velody_Illustration){: style="float: left"}
+![image](/images/Velody_Illustration.jpg){: style="float: left"}
