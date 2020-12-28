@@ -16,6 +16,35 @@ ul.no-bullets {
     padding:0;
 }
 </style>
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
+
 </head>
 
 <div class="home">
@@ -82,17 +111,17 @@ To get a better insight on my life so far, you can have a look at my <a href="/c
 	</div>
 </div>
 <hr style='border-top: dashed'>
-<div class='container2'>
-        <div>
-            <img src="/images/Velody_gif.gif" alt="Velody_gif.gif" caption="A sassy caption here" width=200 style="float:left;margin-right:1%;">
-        </div>  
-    <div style='margin-left:auto;'>
+<div class="row">
+  <div class="column">
+    <img src="/images/Velody_gif.gif" alt="Velody_gif.gif" caption="A sassy caption here" width=200 style="float:left;margin-right:1%;">
+  </div>
+  <div class="column">
 	<ul class="no-bullets">
 	<li><span style="color:#023e8a";><b>Velody: Nonlinear Vibration Challenge-Response for Resilient User Authentication</b> </span></li>
 	<li><i>Jingjie Li, Kassem Fawaz, Younghyun Kim (ACM CCS 2019)</i> <a href="https://wisest.ece.wisc.edu/wp-content/uploads/sites/740/2019/09/Velody_CCS2019_Jingjie.pdf"><div class="color-button">pdf</div></a></li>
 	<li>Velody is a biometric user authentication that leverages nonlinear vibration challenge-response. By updating the unique and complex nonlinear vibration challenge-responses used in authentication, Velody thawrts the threats from reusing/modelling static biometric templates. </li>
-	</ul> 
-	</div>
+	</ul>
+  </div>
 </div>
 
 <br><br>
