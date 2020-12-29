@@ -11,3 +11,16 @@ permalink: /miscellany/
 </ul>
 
 You can add other topics by editing `miscellany.md` and `_data/menu.yml`. -->
+
+Here are some random facts (subjected to change) about me.
+<ul>
+	<li>
+		I spend a considerable amount of time in petting cats (virtually).
+	</li>
+	<li>
+		The top project on my always to-do list: a <a href="https://steins-gate.fandom.com/wiki/Divergence_Meter">divergence meter</a>.
+	</li>
+	<li>
+		The problem that troubles me most: what to get for next lunch?
+	</li>
+</ul>
