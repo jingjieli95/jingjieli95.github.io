@@ -16,6 +16,9 @@ title: Awards
 		<b>Foxconn “Smart Cities-Smart Futures” Competition Final Winner (Team Leader)</b>, 2019
 	</li>
 	<li>
+		<b>ACM CHI Best Paper Award</b>, 2019
+	</li>
+	<li>
 		<b>ISLPED Low-Power Design Contest Award</b>, 2018
 	</li>
 	<li>
