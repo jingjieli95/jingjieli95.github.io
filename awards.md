@@ -25,7 +25,7 @@ title: Awards
 		<b>A. Richard Newton Young Student Fellowship</b>, 2018
 	</li>
 	<li>
-		<b>ANU College of Engineering & Computer Science Undergraduate International Partnership Scholarship</b>, 2015 &2 016
+		<b>ANU College of Engineering & Computer Science Undergraduate International Partnership Scholarship</b>, 2015 & 2016
 	</li>
 <!-- 	<li>
 		<b>BIT Second Prize Scholarship for Outstanding Student</b>, 2015
