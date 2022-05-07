@@ -7,6 +7,12 @@ title: Awards
 
 <ul>
 	<li>
+		<b>CPS (Cyber-Physical Systems) Rising Star, CPS-VO@National Science Foundation</b>, 2022
+	</li>
+	<li>
+		<b>Norton Labs Graduate Fellowship 2022 Finalist</b>, 2022
+	</li>
+	<li>
 		<b>Qualcomm Innovation Fellowship 2019 Finalist</b>, 2019 & 2021
 	</li>
 	<li>
