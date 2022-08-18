@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-You can find my <a href="CV_Jingjie.pdf">CV</a> here (updated in 01.2022).
+You can find my <a href="CV_Jingjie.pdf">CV</a> here (updated in 08.2022).
 <!-- <ul>
 	<li><a href="long_cv.pdf">CV</a> (4 pages)</li>
 	<li><a href="two_page.pdf">Long resume</a> (2 pages)</li>
