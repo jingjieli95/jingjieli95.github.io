@@ -21,6 +21,6 @@ Here are some random facts (subjected to change) about me.
 		The top project on my always to-do list: a <a href="https://steins-gate.fandom.com/wiki/Divergence_Meter">divergence meter</a>.
 	</li>
 	<li>
-		The problem that troubles me most: what to get for next lunch?
+		OCD drives me to stretch the list items to three.
 	</li>
 </ul>
